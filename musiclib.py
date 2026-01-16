@@ -10,5 +10,9 @@ music={
     "Romantic 2":"https://www.youtube.com/watch?v=7HBA20Y5dT8&ab_channel=T-Series",
     "Amplifier":"https://youtu.be/AF-xMvW9WF4?si=eIpnhVIdTTGtd3PO",
     "Blue eyes":"https://www.youtube.com/watch?v=NbyHNASFi6U&list=RDAF-xMvW9WF4&index=2&ab_channel=T-Series",
-    
+    "rakhlo tum chupake" : "https://youtu.be/XLZZ9dNsVac?si=s6ol2dwClnc4pSQR",
+    "Banda kaam ka": "https://youtu.be/l_r5AeJawmE?si=HX5cVVeEmA5Dqjfv",
+    " creep ": "https://youtu.be/4BX5xpB2DBM?si=UUji3nCeg1Ep1BbS",
+    " farebi": "https://youtu.be/Pirzg-F_aag?si=At0Psl76A57VlLdX",
+    "dil to bachcha h ": "https://youtu.be/_TJZaE0FkKs?si=580m01ERNxzFgg56",
 }
